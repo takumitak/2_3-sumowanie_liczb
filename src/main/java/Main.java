@@ -14,11 +14,7 @@ public class Main {
     System.out.println(suma);
 
     
-    //System.out.println("Hello world!");
+  
   }
 
-  // @Test
-  // void addition() {
-  //     assertEquals(2, 1 + 1);
-  // }
 }
